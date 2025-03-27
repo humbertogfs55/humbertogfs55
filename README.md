@@ -38,8 +38,8 @@
 <h3>Statistics GitHub ⚡</h3>
 
 <p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=humberogfs55&show_icons=true&theme=ocean_dark" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberogfs55&hide_progress=true&theme=ocean_dark" alt="Top Languages" />
+  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=ocean_dark" alt="GitHub Statistics" />
+  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&hide_progress=true&theme=ocean_dark" alt="Top Languages" />
 </p>
 
 </br></br></br></br></br></br></br></br>
