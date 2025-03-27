@@ -34,9 +34,8 @@
 
 <h3>GitHub Activity Graph 📊</h3>
 <p>
-  <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=humbertogfs55&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/activity-graph?username=humbertogfs55&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-
 
 <h3>Statistics GitHub ⚡</h3>
 
