@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://github.com/humbertogfs55/AG002">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/AG002&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/AG002" 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/AG002" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/humbertogfs55/GES44-P108-2025.1">
