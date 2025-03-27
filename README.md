@@ -1,1 +1,62 @@
+<h1>💻 Humberto Gomes</h1>
 
+*Software Engineering Student*
+</br>
+
+<p>
+  <a href="https://www.instagram.com/humbertogfs55/">
+      <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
+  </a> 
+  <a href="https://www.linkedin.com/in/humberto-gomes-982923356/">
+      <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
+  </a>
+  <a href="https://github.com/humbertogfs55">
+    <img alt="GitHub" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<h3>Skills 🔥</h3>
+
+<p align="left">
+    <img alt="C#" title="C#" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cs" />
+    <img alt=".NET" title=".NET" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=dotnet" />
+    <img alt="REST APIs" title="REST APIs" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=rest" />
+    <img alt="C++" title="C++" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cpp" />
+    <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
+    <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
+    <img alt="HTML" title="HTML" style="padding: 0 1px;" src="https://skillicons.dev/icons?i=html" />
+    <img alt="CSS" title="CSS" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=css" />
+    <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
+    <img alt="Node.js" title="Node.js" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=nodejs" />
+    <img alt="MongoDB" title="MongoDB" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mongo" />
+    <img alt="MySQL" title="MySQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mysql" />
+    <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="Docker" title="Docker" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+
+<h3>Statistics GitHub ⚡</h3>
+
+<p>
+  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=humberogfs55&show_icons=true&theme=ocean_dark" alt="GitHub Statistics" />
+  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberogfs55&hide_progress=true&theme=ocean_dark" alt="Top Languages" />
+</p>
+
+</br></br></br></br></br></br></br></br>
+
+<h3>Featured Content 🌟</h3>
+
+<p>
+  <a href="https://github.com/humbertogfs55/AG002">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/AG002&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/AG002" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/humbertogfs55/GES44-P108-2025.1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/GES44-P108-2025.1&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/GES44-P108-2025.1" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/humbertogfs55/CaixaSucata">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/CaixaSucata&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/CaixaSucata" 
+      style="width: 400px;"/>
+  </a>
+</p>
