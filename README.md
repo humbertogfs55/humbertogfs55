@@ -19,20 +19,19 @@
 
 <p align="left">
     <img alt="C#" title="C#" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cs" />
-    <img alt=".NET" title=".NET" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=dotnet" />
-    <img alt="REST APIs" title="REST APIs" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=rest" />
-    <img alt="C++" title="C++" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cpp" />
     <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
     <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
-    <img alt="HTML" title="HTML" style="padding: 0 1px;" src="https://skillicons.dev/icons?i=html" />
-    <img alt="CSS" title="CSS" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=css" />
-    <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
-    <img alt="Node.js" title="Node.js" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=nodejs" />
-    <img alt="MongoDB" title="MongoDB" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mongo" />
+    <img alt=".NET" title=".NET" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=dotnet" />
     <img alt="MySQL" title="MySQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mysql" />
     <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="GitHub Actions" title="GitHub Actions" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=githubactions" />
     <img alt="Docker" title="Docker" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=docker" />
+    <img alt="VSCode" title="VSCode" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=vscode" />
+    <img alt="Obsidian" title="Obsidian" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=obsidian" />
+    <img alt="RabbitMQ" title="RabbitMQ" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=rabbitmq" />
+    <img alt="LaTeX" title="LaTeX" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=latex" />
 </p>
+
 
 
 <h3>Statistics GitHub ⚡</h3>
