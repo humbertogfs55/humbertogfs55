@@ -44,19 +44,17 @@
 
 </br></br></br></br></br></br></br></br>
 
-<h3>Featured Content 🌟</h3>
+<h3>Featured Repos 🌟</h3>
 
 <p>
   <a href="https://github.com/humbertogfs55/AG002">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/AG002" 
-      style="width: 400px;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=ocean_dark" alt="AG002" style="width: 400px;"/>
   </a>
   <a href="https://github.com/humbertogfs55/GES44-P108-2025.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/GES44-P108-2025.1&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/GES44-P108-2025.1" 
-      style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=ocean_dark" alt="GES44-P108-2025.1" style="width: 400px;"/>
   </a>
   <a href="https://github.com/humbertogfs55/CaixaSucata">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/humbertogfs55/CaixaSucata&cache_seconds=86400&theme=ocean_dark" alt="https://github.com/humbertogfs55/CaixaSucata" 
-      style="width: 400px;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=CaixaSucata&cache_seconds=86400&theme=ocean_dark" alt="CaixaSucata" style="width: 400px;"/>
   </a>
 </p>
+
