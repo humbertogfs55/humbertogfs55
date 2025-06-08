@@ -45,7 +45,7 @@
 
 <p>
   <a href="https://github.com/humbertogfs55/CaixaSucata">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-C216-L1-2025.1&cache_seconds=86400&theme=ocean_dark" alt="CaixaSucata" style="width: 400px;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-C216-L1-2025.1&cache_seconds=86400&theme=ocean_dark" alt="GES44-C216-L1-2025.1" style="width: 400px;"/>
   </a>
   <a href="https://github.com/humbertogfs55/AG002">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=ocean_dark" alt="AG002" style="width: 400px;"/>
