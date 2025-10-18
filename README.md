@@ -1,64 +1,130 @@
-<h1>💻 Humberto Gomes</h1>
+# 💻 Humberto Gomes
 
-*Software Engineering Student*
-</br>
+## Software Engineering Student | Full-Stack Developer | Open Source Enthusiast
 
-<p>
-  <a href="https://www.instagram.com/1bertogfs55/">
-      <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
-  </a> 
-  <a href="https://www.linkedin.com/in/humberto-gomes-982923356/">
-      <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
-  </a>
-  <a href="https://github.com/humbertogfs55">
-    <img alt="GitHub" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.youtube.com/@humbertogfs55">
-    <img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+---
 
-<h3>Skills 🔥</h3>
+## 🚀 About Me
 
-<p align="left">
-    <img alt="Arch" title="Arch" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=arch" />
-    <img alt="C#" title="C#" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cs" />
-    <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
-    <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
-    <img alt=".NET" title=".NET" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=dotnet" />
-    <img alt="MySQL" title="MySQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mysql" />
-    <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
-    <img alt="GitHub Actions" title="GitHub Actions" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=githubactions" />
-    <img alt="Docker" title="Docker" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=docker" />
-    <img alt="VSCode" title="VSCode" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=vscode" />
-    <img alt="Obsidian" title="Obsidian" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=obsidian" />
-    <img alt="RabbitMQ" title="RabbitMQ" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=rabbitmq" />
-    <img alt="LaTeX" title="LaTeX" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=latex" />
-</p>
+Passionate **Software Engineering Student** with a strong foundation in full-stack development and a drive to create innovative solutions. Currently pursuing my degree while building real-world projects that solve complex problems. I'm passionate about clean code, continuous learning, and contributing to the tech community.
 
-<h3>Statistics GitHub ⚡</h3>
+- 🎓 **Currently**: Software Engineering Student
+- 💼 **Open to**: Internships, Part-time opportunities, Freelance projects
+- 🌍 **Location**: Brazil
+- <img src="./assets/Emoticon_Ranked_Immortal.webp" width="20" height="25" alt="Dota 2 Immortal"> **Fun fact**:  Dota 2 Immortal Rank Player
 
-<p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=ocean_dark" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&hide_progress=true&theme=ocean_dark" alt="Top Languages" />
-</p>
+---
 
-</br></br></br></br></br></br></br></br>
+## 🛠️ Tech Stack
 
-<h3>Featured Repos 🌟</h3>
+### Programming Languages
 
-<p>
-  <a href="[https://github.com/humbertogfs55/CaixaSucata](https://github.com/humbertogfs55/PoE-Evaluation)">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=ocean_dark" alt="PoE-Evaluation" style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/humbertogfs55/AG002">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=ocean_dark" alt="AG002" style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/humbertogfs55/GES44-P108-2025.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=ocean_dark" alt="GES44-P108-2025.1" style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/humbertogfs55/C3018-NP2">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=C3018-NP2&cache_seconds=86400&theme=ocean_dark" alt="C3018-NP2" style="width: 400px;"/>
-  </a>
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Frameworks & Libraries
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humbertogfs55&theme=tokyonight)
+
+---
+
+## 🌟 Featured Projects
+
+### PoE-Evaluation
+
+### TCC
+
+- **Tech Stack**: C#, .NET, MySQL, Entity Framework
+- **Features**: TCC - Code Evaluation pipeline using HumanEval and PoE to consolidate multiple metrics of code quality
+- **Impact**: New way of evaluating code sanity tested by targeting code generated by LLM's
+
+[![PoE-Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/PoE-Evaluation)
+
+### AG002
+
+### Exercise in Image Recognition using ML
+
+- **Tech Stack**: Python
+- **Features**: Starter project for image recognition using ML tecniques
+
+[![AG002](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/AG002)
+
+### GES44-P108-2025.1
+
+### Queue theory calculator app
+
+- **Tech Stack**: Python
+- **Features**: Terminal based, calculator app for model based queue theory calculations
+- **Impact**: Fast calculations for complex Queue problems Like M/M/C and M/G/1 
+
+[![GES44-P108-2025.1](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/GES44-P108-2025.1)
+
+### C3018-NP2
+
+### Software Engineering Project
+
+- **Tech Stack**: Python, scikit-learn
+- **Features**: Dota2 api scraping and machine learning exercise on data manipulation/recognition
+- **Impact**: Generate wining probabilityies for dota 2 matches based on historic results and model training
+
+[![C3018-NP2](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=C3018-NP2&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/C3018-NP2)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **Software Engineering Student** - Pursuing comprehensive CS education (dez/2025)
+- 🐧 **Linux Enthusiast** - Arch Linux power
+- 🔄 **Open Source Contributor** - Active in community projects mainly on niche linux tools
+
+---
+
+## 📈 Current Focus
+
+- 🚀 **Learning**: microservices and advanced machine learning/ Ai tools
+- 🔨 **Building**: Tools to link my passion for Dota2 and Software Engineering
+- 📚 **Studying**: Software architecture patterns and best practices
+- 🌐 **Exploring**: DevOps practices and CI/CD pipelines
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-gomes-982923356/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humbertogfs55)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@humbertogfs55)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1bertogfs55/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=humbertogfs55&label=Profile%20views&color=0e75b6&style=flat)
+
+**Thanks for visiting! Let's build something amazing together!**
