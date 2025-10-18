@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate **Software Engineering Student** with a strong foundation in full-stack development and a drive to create innovative solutions. Currently pursuing my degree while building real-world projects that solve complex problems. I'm passionate about clean code, continuous learning, and contributing to the tech community.
+Passionate **Software Engineering Student** with a strong foundation in full-stack development and a drive to create innovative solutions. Currently pursuing my degree while building personal projects that help me learn more about my craft. I'm passionate about clean code, continuous learning, and contributing to the tech community.
 
 - 🎓 **Currently**: Software Engineering Student
 - 💼 **Open to**: Internships, Part-time opportunities, Freelance projects
