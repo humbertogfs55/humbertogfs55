@@ -4,7 +4,7 @@
 </br>
 
 <p>
-  <a href="[https://www.instagram.com/humbertogfs55/](https://www.instagram.com/1bertogfs55/)">
+  <a href="https://www.instagram.com/1bertogfs55/">
       <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
   </a> 
   <a href="https://www.linkedin.com/in/humberto-gomes-982923356/">
