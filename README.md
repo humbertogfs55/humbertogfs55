@@ -13,11 +13,15 @@
   <a href="https://github.com/humbertogfs55">
     <img alt="GitHub" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.youtube.com/@humbertogomes8446">
+    <img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 <h3>Skills 🔥</h3>
 
 <p align="left">
+    <img alt="Arch" title="Arch" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=arch" />
     <img alt="C#" title="C#" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cs" />
     <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
     <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
