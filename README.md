@@ -44,8 +44,8 @@
 <h3>Featured Repos 🌟</h3>
 
 <p>
-  <a href="https://github.com/humbertogfs55/CaixaSucata">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-C216-L1-2025.1&cache_seconds=86400&theme=ocean_dark" alt="GES44-C216-L1-2025.1" style="width: 400px;"/>
+  <a href="[https://github.com/humbertogfs55/CaixaSucata](https://github.com/humbertogfs55/PoE-Evaluation)">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=ocean_dark" alt="PoE-Evaluation" style="width: 400px;"/>
   </a>
   <a href="https://github.com/humbertogfs55/AG002">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=ocean_dark" alt="AG002" style="width: 400px;"/>
@@ -53,8 +53,8 @@
   <a href="https://github.com/humbertogfs55/GES44-P108-2025.1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=ocean_dark" alt="GES44-P108-2025.1" style="width: 400px;"/>
   </a>
-  <a href="https://github.com/humbertogfs55/CaixaSucata">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=CaixaSucata&cache_seconds=86400&theme=ocean_dark" alt="CaixaSucata" style="width: 400px;"/>
+  <a href="https://github.com/humbertogfs55/C3018-NP2">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=C3018-NP2&cache_seconds=86400&theme=ocean_dark" alt="C3018-NP2" style="width: 400px;"/>
   </a>
 </p>
 
