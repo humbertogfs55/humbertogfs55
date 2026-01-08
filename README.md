@@ -48,7 +48,7 @@ Passionate **Software Engineer** with a strong foundation in full-stack developm
 ---
 
 ## 📊 GitHub Analytics
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
 
