@@ -1,12 +1,12 @@
 # 💻 Humberto Gomes
 
-## Software Engineering Student | Full-Stack Developer | Open Source Enthusiast
+## Software Engineer | Full-Stack Developer | Open Source Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-Passionate **Software Engineering Student** with a strong foundation in full-stack development and a drive to create innovative solutions. Currently pursuing my degree while building personal projects that help me learn more about my craft. I'm passionate about clean code, continuous learning, and contributing to the tech community.
+Passionate **Software Engineer** with a strong foundation in full-stack development and a drive to create innovative solutions. Recently finished my degree ! Now building personal projects that help me learn more about my craft. I'm passionate about clean code, continuous learning, and contributing to the tech community.
 
 - 🎓 **Currently**: Software Engineering Student
 - 💼 **Open to**: Internships, Part-time opportunities, Freelance projects
