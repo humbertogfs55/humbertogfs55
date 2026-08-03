@@ -63,10 +63,10 @@ Passionate about clean architecture, AI-assisted development, and building usefu
 
 ### PoE-Evaluation
 
-### Code Quality Evaluation Pipeline (B.Sc. Final Project)
+### LLM Code Evaluation Pipeline (B.Sc. Final Project)
 
-- **Tech Stack**: C#, .NET, MySQL, Entity Framework
-- **Description**: Evaluation pipeline using HumanEval and PoE to consolidate multiple code quality metrics. Targets LLM-generated code.
+- **Tech Stack**: Python, Docker, Ollama, HumanEval, Radon, Pylint
+- **Description**: Evaluation pipeline using the Product of Experts framework to combine multiple code quality metrics (correctness, complexity, style, efficiency) into a unified score for LLM-generated code.
 
 [![PoE-Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/PoE-Evaluation)
 
