@@ -1,17 +1,19 @@
 # 💻 Humberto Gomes
 
-## Software Engineer | Full-Stack Developer | Open Source Enthusiast
+## Software Engineer | Full-Stack Developer | AI & ML Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-Passionate **Software Engineer** with a strong foundation in full-stack development and a drive to create innovative solutions. Recently finished my degree ! Now building personal projects that help me learn more about my craft. I'm passionate about clean code, continuous learning, and contributing to the tech community.
+**Software Engineer** at Cyncly, working full-stack in a fully remote role. B.Sc. in Software Engineering (2025), currently pursuing a **Master's degree in Computer Science** (PPGCC – UFSJ), with research in Optimization and Computational Intelligence.
 
-- 🎓 **Currently**: Software Engineering Student
-- 💼 **Open to**: Internships, Part-time opportunities, Freelance projects
-- 🌍 **Location**: Brazil
-- <img src="./assets/Emoticon_Ranked_Immortal.webp" width="20" height="25" alt="Dota 2 Immortal"> **Fun fact**:  Dota 2 Immortal Rank Player
+Passionate about clean architecture, AI-assisted development, and building useful tools. I spend a lot of my personal time on self-hosted infrastructure, Linux desktop tooling, and LLM workflows.
+
+- 💼 **Software Engineer** at Cyncly (full-stack, remote)
+- 🎓 **M.Sc. Candidate** – Computer Science, UFSJ (Optimization & Computational Intelligence)
+- 🌍 **Location**: Minas Gerais, Brazil
+- <img src="./assets/Emoticon_Ranked_Immortal.webp" width="20" height="25" alt="Dota 2 Immortal"> **Fun fact**: Dota 2 Immortal Rank Player
 
 ---
 
@@ -20,35 +22,36 @@ Passionate **Software Engineer** with a strong foundation in full-stack developm
 ### Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### Databases & Cloud
+### Databases & Infrastructure
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Tools & Environment
+
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
 
@@ -60,59 +63,49 @@ Passionate **Software Engineer** with a strong foundation in full-stack developm
 
 ### PoE-Evaluation
 
-### TCC
+### Code Quality Evaluation Pipeline (B.Sc. Final Project)
 
 - **Tech Stack**: C#, .NET, MySQL, Entity Framework
-- **Features**: TCC - Code Evaluation pipeline using HumanEval and PoE to consolidate multiple metrics of code quality
-- **Impact**: New way of evaluating code sanity tested by targeting code generated by LLM's
+- **Description**: Evaluation pipeline using HumanEval and PoE to consolidate multiple code quality metrics. Targets LLM-generated code.
 
 [![PoE-Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/PoE-Evaluation)
 
 ### AG002
 
-### Exercise in Image Recognition using ML
+### Image Recognition with Machine Learning (University Project)
 
 - **Tech Stack**: Python
-- **Features**: Starter project for image recognition using ML tecniques
+- **Description**: Image recognition using classical ML techniques — a hands-on intro to computer vision fundamentals.
 
 [![AG002](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/AG002)
 
 ### GES44-P108-2025.1
 
-### Queue theory calculator app
+### Queue Theory Calculator (University Project)
 
 - **Tech Stack**: Python
-- **Features**: Terminal based, calculator app for model based queue theory calculations
-- **Impact**: Fast calculations for complex Queue problems Like M/M/C and M/G/1 
+- **Description**: Terminal-based calculator for model-based queue theory (M/M/C, M/G/1). Fast solutions for complex queueing problems.
 
 [![GES44-P108-2025.1](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/GES44-P108-2025.1)
 
 ### C3018-NP2
 
-### Software Engineering Project
+### Dota 2 ML Win Predictor (University Project)
 
 - **Tech Stack**: Python, scikit-learn
-- **Features**: Dota2 api scraping and machine learning exercise on data manipulation/recognition
-- **Impact**: Generate wining probabilityies for dota 2 matches based on historic results and model training
+- **Description**: Dota 2 API scraping and match outcome prediction using historical data and ML model training.
 
 [![C3018-NP2](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=C3018-NP2&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/C3018-NP2)
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎓 **Software Engineering Student** - Pursuing comprehensive CS education (dez/2025)
-- 🐧 **Linux Enthusiast** - Arch Linux power
-- 🔄 **Open Source Contributor** - Active in community projects mainly on niche linux tools
-
----
-
 ## 📈 Current Focus
 
-- 🚀 **Learning**: microservices and advanced machine learning/ Ai tools
-- 🔨 **Building**: Tools to link my passion for Dota2 and Software Engineering
-- 📚 **Studying**: Software architecture patterns and best practices
-- 🌐 **Exploring**: DevOps practices and CI/CD pipelines
+- 🤖 **AI Engineering** — LLM tooling, MCP servers, Claude Code, Ollama and local AI workflows
+- 🎓 **Master's Research** — Machine learning, optimization, and probabilistic graphical models (PPGCC – UFSJ)
+- 🐧 **Linux Tooling** — Arch Linux, Hyprland, Wayland-native desktop automation
+- 🏗️ **Infrastructure** — Self-hosted services, Docker, CI/CD pipelines
+- 📝 **Engineering Journal** — Writing about software engineering and personal projects (Astro blog)
 
 ---
 
