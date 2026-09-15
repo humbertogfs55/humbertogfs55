@@ -52,50 +52,34 @@ Passionate about clean architecture, AI-assisted development, and building usefu
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humbertogfs55&theme=tokyonight)
+![Streaks and Stats](https://devpulse.is-a.dev/api/widgets/streaks-and-stats/humbertogfs55)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
 ## 🌟 Featured Projects
 
-### PoE-Evaluation
-
-### LLM Code Evaluation Pipeline (B.Sc. Final Project)
-
-- **Tech Stack**: Python, Docker, Ollama, HumanEval, Radon, Pylint
-- **Description**: Evaluation pipeline using the Product of Experts framework to combine multiple code quality metrics (correctness, complexity, style, efficiency) into a unified score for LLM-generated code.
-
-[![PoE-Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/PoE-Evaluation)
-
-### AG002
-
-### Image Recognition with Machine Learning (University Project)
-
-- **Tech Stack**: Python
-- **Description**: Image recognition using classical ML techniques — a hands-on intro to computer vision fundamentals.
-
-[![AG002](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=AG002&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/AG002)
-
-### GES44-P108-2025.1
-
-### Queue Theory Calculator (University Project)
-
-- **Tech Stack**: Python
-- **Description**: Terminal-based calculator for model-based queue theory (M/M/C, M/G/1). Fast solutions for complex queueing problems.
-
-[![GES44-P108-2025.1](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=GES44-P108-2025.1&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/GES44-P108-2025.1)
-
-### C3018-NP2
-
-### Dota 2 ML Win Predictor (University Project)
-
-- **Tech Stack**: Python, scikit-learn
-- **Description**: Dota 2 API scraping and match outcome prediction using historical data and ML model training.
-
-[![C3018-NP2](https://github-readme-stats.vercel.app/api/pin/?username=humbertogfs55&repo=C3018-NP2&cache_seconds=86400&theme=tokyonight)](https://github.com/humbertogfs55/C3018-NP2)
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/humbertogfs55/PoE-Evaluation"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humbertogfs55&repo=PoE-Evaluation&theme=tokyonight&cache_seconds=86400&show_owner=true&description_lines_count=3&text_bold=true&number_format=long" alt="PoE-Evaluation" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/humbertogfs55/engineering-journal"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humbertogfs55&repo=engineering-journal&theme=tokyonight&cache_seconds=86400&show_owner=true&description_lines_count=3&text_bold=true&number_format=long" alt="engineering-journal" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/humbertogfs55/dotafetch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humbertogfs55&repo=dotafetch&theme=tokyonight&cache_seconds=86400&show_owner=true&description_lines_count=3&text_bold=true&number_format=long" alt="dotafetch" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/humbertogfs55/Dota2-draft-classifier"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humbertogfs55&repo=Dota2-draft-classifier&theme=tokyonight&cache_seconds=86400&show_owner=true&description_lines_count=3&text_bold=true&number_format=long" alt="Dota2-draft-classifier" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
