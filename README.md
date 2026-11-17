@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-**Software Engineer** at Cyncly, working full-stack in a fully remote role. B.Sc. in Software Engineering (2025), currently pursuing a **Master's degree in Computer Science** (PPGCC – UFSJ), with research in Optimization and Computational Intelligence.
+**Software Engineer** at Cyncly, working full-stack in a fully remote role. B.Sc. in Software Engineering (2025), currently pursuing an **MBA in Software Engineering** at USP.
 
 Passionate about clean architecture, AI-assisted development, and building useful tools. I spend a lot of my personal time on self-hosted infrastructure, Linux desktop tooling, and LLM workflows.
 
 - 💼 **Software Engineer** at Cyncly (full-stack, remote)
-- 🎓 **M.Sc. Candidate** – Computer Science, UFSJ (Optimization & Computational Intelligence)
+- 🎓 **MBA Student** – Software Engineering, USP
 - 🌍 **Location**: Minas Gerais, Brazil
 - <img src="./assets/Emoticon_Ranked_Immortal.webp" width="20" height="25" alt="Dota 2 Immortal"> **Fun fact**: Dota 2 Immortal Rank Player
 
@@ -50,13 +50,14 @@ Passionate about clean architecture, AI-assisted development, and building usefu
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Education & Certifications
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=humbertogfs55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Streaks and Stats](https://devpulse.is-a.dev/api/widgets/streaks-and-stats/humbertogfs55)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=humbertogfs55&layout=compact&langs_count=8&theme=tokyonight)
+| Credential | Issuer | Date |
+| --- | --- | --- |
+| **MBA in Software Engineering** (in progress) | USP | — |
+| **B.Sc. in Software Engineering** | Inatel | Dec 2025 |
+| **Offensive Security: Pentest, Hacking & Red Team** (50h, live) — verification code `2916908A2ABF112A18852970` at [e-certificado.com](https://e-certificado.com) | LinuxForce | Apr 2026 |
+| **Cambridge B2 First (FCE)** — Pass at Grade B, CEFR B2 (Speaking C1) | Cambridge English | 2018 |
 
 ---
 
@@ -86,7 +87,7 @@ Passionate about clean architecture, AI-assisted development, and building usefu
 ## 📈 Current Focus
 
 - 🤖 **AI Engineering** — LLM tooling, MCP servers, Claude Code, Ollama and local AI workflows
-- 🎓 **Master's Research** — Machine learning, optimization, and probabilistic graphical models (PPGCC – UFSJ)
+- 🎓 **MBA in Software Engineering** — USP
 - 🐧 **Linux Tooling** — Arch Linux, Hyprland, Wayland-native desktop automation
 - 🏗️ **Infrastructure** — Self-hosted services, Docker, CI/CD pipelines
 - 📝 **Engineering Journal** — Writing about software engineering and personal projects (Astro blog)
